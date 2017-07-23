@@ -5,15 +5,57 @@ margin:0px;
 
 
 }
+.inline{
+  display:inline;
+}
+.inblk{
+display:inline-block;
 
+}
+.whitetext{
+
+color:white;
+}
+.mainimage{
+
+    margin-left: 44px;
+    width: 95%;
+    margin-top: 35px;
+
+}
+.aligncenter{
+text-align:center;
+
+
+}
 .maincolor{
 
 background-color:#062134;
 }
+.lightnavyblue{
+
+ color:#2b5b7e;
+
+}
+
+.button{
+
+width: 95px;
+    border-radius: 6px;
+    margin: 9px 10px 13px 11px;
+    height: 32px;
+
+}
+.lightbluetext{
+
+color:#187ddb;
+
+
+}
 
 .lightblue{
 
-background-color:#187ddb
+background-color:#187ddb;
 
 
 }
@@ -22,13 +64,29 @@ background-color:#187ddb
 color:#1993de;
 
 }
-.white{
+.whitebg{
 
 
 background-color:white;
+margin: 0px 17px 1px 10px;
+}
+.middletable{
+margin: 1px 5px 1px 44px;
+    width: 95%;
+    padding: 12px 1px 17px 0px;
+
 
 }
+.toolimage{
+   width: 52px;
+}
+.para{
 
+    padding: 9px;
+    margin-left: 10px;
+
+
+}
 .buttoncolor{
 
 background-color:#1993de;
@@ -37,5 +95,53 @@ background-color:#1993de;
 .babybluewording{
 
 color:#daedff;
+
+}
+.babybluebg{
+
+background-color: #daedff;
+    margin: 1px 16px 0px 11px;
+    padding: 19px;
+}
+
+.bottomdiv{
+width: 100%;
+}
+.quote{
+
+
+    position: relative;
+    left: -55px;
+    width: 354px;
+
+}
+.cornerimage{
+    margin: 1px 1px 1px 44px;
+    width: 380px;
+    height: 255px;
+    padding-bottom: 31px;
+
+
+}
+
+.testimonial{
+    font-size: 33px;
+    font-family: sans-serif;
+    padding-right: 80px;
+    padding-top: 18px;
+
+}
+
+.headerlinks{
+
+position: relative;
+    left: 1051px;
+    bottom: 25px;
+}
+
+.sectionbottom{
+
+    margin: 1px 84px 1px 3px;
+
 
 }
